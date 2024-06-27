@@ -9,7 +9,7 @@ class TestShprint(unittest.TestCase):
         """
         Makes sure `shprint()` can handle unicode command output.
         Running the test with PYTHONIOENCODING=ASCII env would fail, refs:
-        https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/issues/1654
+        https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/issues/1654
         """
         expected_command_output = ["foo\xa0bar"]
         command = MagicMock()

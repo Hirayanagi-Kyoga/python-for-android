@@ -8,7 +8,7 @@ class Psycopg2Recipe(PythonRecipe):
     Requires `libpq-dev` system dependency e.g. for `pg_config` binary.
     If you get `nl_langinfo` symbol runtime error, make sure you're running on
     `ANDROID_API` (`ndk-api`) >= 26, see:
-    https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/issues/1711#issuecomment-465747557
+    https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/issues/1711#issuecomment-465747557
     """
     version = '2.8.5'
     url = 'https://pypi.python.org/packages/source/p/psycopg2/psycopg2-{version}.tar.gz'

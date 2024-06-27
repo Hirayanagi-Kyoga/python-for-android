@@ -318,6 +318,6 @@ linkcheck_ignore = [
     r"https://developer.android.com/reference/android/app/Activity#onActivity.*",
 
     # GitHub parses anchor tags differently to pure HTML
-    r"https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob.*",
+    r"https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/blob.*",
     ]
 

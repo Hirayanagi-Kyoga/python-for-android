@@ -173,7 +173,7 @@ def test_transform_dep_for_pip():
         ),
     )
     expected = (
-        "https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/archive/master.zip" +
+        "https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/archive/master.zip" +
         "#egg=python-for-android"
     )
     assert transformed == (expected, expected, expected)

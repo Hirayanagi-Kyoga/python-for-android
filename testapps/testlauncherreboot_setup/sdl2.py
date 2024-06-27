@@ -33,7 +33,7 @@ LAUNCHER = join(ROOT, 'launcherapp')
 if not exists(LAUNCHER):
     PROC = Popen([
         'git', 'clone',
-        'https://github.com/Hirayanagi-Kyoga/python-for-androidkivy-launcher',
+        'https://github.com/Hirayanagi-Kyoga/python-for-android/kivy-launcher',
         LAUNCHER
     ])
     PROC.communicate()

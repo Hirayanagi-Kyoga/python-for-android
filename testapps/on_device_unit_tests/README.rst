@@ -27,9 +27,9 @@ Building the app with python-for-android
 ========================================
 
 You can use the provided file `setup.py`. Check our `Makefile
-<https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob/develop/Makefile>`__ to guess
+<https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/blob/develop/Makefile>`__ to guess
 how to build the test app, or also you can look at `testing pull requests documentation
-<https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob/develop/doc/source/testing_pull_requests.rst>`__,
+<https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/blob/develop/doc/source/testing_pull_requests.rst>`__,
 which describes some of the methods that you can use to build the test app.
 
 Building the app with buildozer

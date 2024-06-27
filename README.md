@@ -39,13 +39,13 @@ python-for-android is not limited to being used with Buildozer.
 
 [![Backers on Open Collective](https://opencollective.com/kivy/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/kivy/sponsors/badge.svg)](#sponsors)
-[![GitHub contributors](https://img.shields.io/github/contributors-anon/kivy/python-for-android)](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/kivy/python-for-android)](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/graphs/contributors)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 ![PyPI - Version](https://img.shields.io/pypi/v/python-for-android)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python-for-android)
 
-[![Unit tests & build apps](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/workflows/Unit%20tests%20&%20build%20apps/badge.svg?branch=develop)](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/actions?query=workflow%3A%22Unit+tests+%26+build+apps%22)
+[![Unit tests & build apps](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/workflows/Unit%20tests%20&%20build%20apps/badge.svg?branch=develop)](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/actions?query=workflow%3A%22Unit+tests+%26+build+apps%22)
 [![Coverage Status](https://coveralls.io/repos/github/kivy/python-for-android/badge.svg?branch=develop&kill_cache=1)](https://coveralls.io/github/kivy/python-for-android?branch=develop)
 
 ## Documentation
@@ -64,7 +64,7 @@ Is there an error you don’t understand? Are you trying to figure out how to us
 it? We have volunteers who can help!
 
 The best channels to contact us for support are listed in the latest 
-[Contact Us](https://github.com/Hirayanagi-Kyoga/python-for-androidpyton-for-android/blob/master/CONTACT.md)
+[Contact Us](https://github.com/Hirayanagi-Kyoga/python-for-android/pyton-for-android/blob/master/CONTACT.md)
 document.
 
 ## Code of Conduct
@@ -75,12 +75,12 @@ our sister projects is a harassment-free and positive experience for everyone.
 It is vital that all interaction is conducted in a manner conveying respect, 
 open-mindedness and gratitude.
 
-Please consult the [latest Code of Conduct](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob/master/CODE_OF_CONDUCT.md).
+Please consult the [latest Code of Conduct](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/blob/master/CODE_OF_CONDUCT.md).
 
 ## Contributors
 
 This project exists thanks to 
-[all the people who contribute](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/graphs/contributors).
+[all the people who contribute](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/graphs/contributors).
 [[Become a contributor](CONTRIBUTING.md)].
 
 <img src="https://contrib.nn.ci/api?repo=kivy/python-for-android&pages=5&no_bot=true&radius=22&cols=18">

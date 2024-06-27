@@ -7,7 +7,7 @@ from os.path import join
 
 class PyjniusRecipe(CythonRecipe):
     version = '1.6.1'
-    url = 'https://github.com/Hirayanagi-Kyoga/python-for-androidpyjnius/archive/{version}.zip'
+    url = 'https://github.com/Hirayanagi-Kyoga/python-for-android/pyjnius/archive/{version}.zip'
     name = 'pyjnius'
     depends = [('genericndkbuild', 'sdl2'), 'six']
     site_packages_name = 'jnius'

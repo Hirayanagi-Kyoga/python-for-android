@@ -11,7 +11,7 @@ is built entirely by the contributions of volunteers. We welcome (and rely on)
 users who want to give back to the community by contributing to the project.
 
 Contributions can come in many forms. See the latest
-`Contribution Guidelines <https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob/master/CONTRIBUTING.md>`_
+`Contribution Guidelines <https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/blob/master/CONTRIBUTING.md>`_
 for general guidelines of how you can help us, and specific instructions for python-for-android
 development.
 

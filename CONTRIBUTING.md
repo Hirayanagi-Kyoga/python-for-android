@@ -6,7 +6,7 @@ is built entirely by the contributions of volunteers. We welcome (and rely on)
 users who want to give back to the community by contributing to the project.
 
 Contributions can come in many forms. See the latest 
-[Contribution Guidelines](https://github.com/Hirayanagi-Kyoga/python-for-androidkivy/blob/master/CONTRIBUTING.md)
+[Contribution Guidelines](https://github.com/Hirayanagi-Kyoga/python-for-android/kivy/blob/master/CONTRIBUTING.md)
 for how you can help us.
 
 .. warning::
@@ -47,7 +47,7 @@ while internals are changing.
 In 2015, these tools were rewritten to provide a new, easier-to-use and
 easier-to-extend interface. If you'd like to browse the old toolchain, 
 its status is 
-[recorded for posterity](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/tree/old_toolchain).
+[recorded for posterity](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/tree/old_toolchain).
 
 In the last quarter of 2018, the Python recipes were changed. The
 new recipe for Python3 (3.7.1) had a new build system which was
@@ -86,8 +86,8 @@ arises. To complete the release:
 - Tag the release commit in `master`, with tag `vYYYY.MM.DD`. Include a short
   summary of the changes.
 - Release distributions and PyPI upload should be 
-  [handled by the CI](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob/v2020.04.29/.travis.yml#L60-L70).
-- Add to the GitHub release page (see e.g. [this example](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/releases/tag/v2019.06.06):
+  [handled by the CI](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/blob/v2020.04.29/.travis.yml#L60-L70).
+- Add to the GitHub release page (see e.g. [this example](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/releases/tag/v2019.06.06):
   - The python-for-android README summary
   - A short list of major changes in this release, if any
   - A changelog summarising merge commits since the last release
@@ -96,10 +96,10 @@ arises. To complete the release:
 ## Release checklist
 
   - [ ] Check that the builds are passing
-    - [ ] [GitHub Action](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/actions)
+    - [ ] [GitHub Action](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/actions)
   - [ ] Run the tests locally via `tox`: this performs some long-running tests that are skipped on github-actions.
-  - [ ] Build and run the [on_device_unit_tests](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/tree/master/testapps/on_device_unit_tests) app using buildozer. Check that they all pass.
-  - [ ] Build (or download from github actions) and run the following [testapps](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/tree/master/testapps/on_device_unit_tests) for arch `armeabi-v7a` and `arm64-v8a`:
+  - [ ] Build and run the [on_device_unit_tests](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/tree/master/testapps/on_device_unit_tests) app using buildozer. Check that they all pass.
+  - [ ] Build (or download from github actions) and run the following [testapps](https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/tree/master/testapps/on_device_unit_tests) for arch `armeabi-v7a` and `arm64-v8a`:
     - [ ] on_device_unit_tests
       - [ ] `armeabi-v7a` (`cd testapps/on_device_unit_tests && PYTHONPATH=.:../../ python3 setup.py apk  --ndk-dir=<your-ndk-dir> --sdk-dir=<your-sdk-dir> --arch=armeabi-v7a --debug`)
       - [ ] `arm64-v8a` (`cd testapps/on_device_unit_tests && PYTHONPATH=.:../../ python3 setup.py apk  --ndk-dir=<your-ndk-dir> --sdk-dir=<your-sdk-dir> --arch=arm64-v8a --debug`)

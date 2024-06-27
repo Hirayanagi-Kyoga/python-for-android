@@ -1,13 +1,13 @@
 <!--
 The issue tracker is a tool to address bugs NOT a support platform.
 Please use the Discord community or Stack Overflow for support questions,
-more information at https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android#support
+more information at https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android#support
 -->
 
 ### Checklist
 
 - [ ] the issue is indeed a bug and not a support request
-- [ ] issue doesn't already exist: https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/issues
+- [ ] issue doesn't already exist: https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/issues
 - [ ] I have a short, runnable example that reproduces the issue
 - [ ] I reproduced the problem with the latest development version (`p4a.branch = develop`)
 - [ ] I used the grave accent (aka backticks) to format code or logs when appropriated
