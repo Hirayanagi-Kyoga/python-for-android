@@ -325,7 +325,7 @@ int main(int argc, char *argv[]) {
 
      Reference discussion:
 
-     https://github.com/kivy/kivy/pull/6107#issue-246120816
+     https://github.com/Hirayanagi-Kyoga/python-for-androidkivy/pull/6107#issue-246120816
    */
   char terminatecmd[256];
   snprintf(

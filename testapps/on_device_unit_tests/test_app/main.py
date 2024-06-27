@@ -93,7 +93,7 @@ elif 'flask' in requirements:
     # JNI ends up using the Java system class loader in new native
     # threads.
     #
-    # https://github.com/kivy/python-for-android/issues/2533
+    # https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/issues/2533
     app_flask.app.run(threaded=False, debug=flask_debug)
 else:
     # we don't have kivy or flask in our

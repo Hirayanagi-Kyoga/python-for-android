@@ -41,7 +41,7 @@ python-for-android is not limited to being used with Buildozer.
 Buildozer is released and distributed under the terms of the MIT license. You
 should have received a
 copy of the MIT license alongside your distribution. Our
-`latest license <https://github.com/kivy/python-for-android/blob/master/LICENSE>`_
+`latest license <https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob/master/LICENSE>`_
 is also available.
 
 

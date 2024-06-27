@@ -8,12 +8,12 @@ binaries that can run on Android devices.
 ### Sibling Projects:
 
 This tool was originally developed for apps produced with
-the [Kivy framework](https://github.com/kivy/kivy), and is
+the [Kivy framework](https://github.com/Hirayanagi-Kyoga/python-for-androidkivy), and is
 managed by the same team. However, it can be used to build other types of Python
 apps for Android.
 
 p4a is often used in conjunction
-with [Buildozer](https://github.com/kivy/buildozer), which can download, install
+with [Buildozer](https://github.com/Hirayanagi-Kyoga/python-for-androidbuildozer), which can download, install
 and keep up-to-date any necessary prerequisites (including p4a itself), for a
 number of target platforms, using a specification file to define the build.
 

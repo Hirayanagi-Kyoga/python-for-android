@@ -28,7 +28,7 @@ jobs:
             We try to use GitHub issues only to track work for developers to do to fix bugs and add new features to python-for-android. 
             
             However, this issue appears to be a support request. Please use our
-            [support channels](https://github.com/kivy/python-for-android/blob/master/CONTACT.md)
+            [support channels](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob/master/CONTACT.md)
             to get help with the project.
 
             If you're having trouble installing python-for-android,
@@ -36,7 +36,7 @@ jobs:
 
             If you're having trouble using python-for-android,
             please see our [troubleshooting guide](https://python-for-android.readthedocs.io/en/latest/troubleshooting) 
-            and [FAQ](https://github.com/kivy/python-for-android/blob/master/FAQ.md).
+            and [FAQ](https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob/master/FAQ.md).
 
             Let us know if this comment was made in error, and we'll be happy
             to reopen the issue.

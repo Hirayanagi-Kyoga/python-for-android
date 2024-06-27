@@ -103,5 +103,5 @@ For example, the Python installation for ``arm64-v8a`` is available in ``lib/arm
 FAQ
 ---
 
-Check out the `online FAQ <https://github.com/kivy/python-for-android/blob/master/FAQ.md>`_ for common
+Check out the `online FAQ <https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob/master/FAQ.md>`_ for common
 errors.

@@ -11,10 +11,10 @@ Python versions
 python-for-android supports using Python 3.8 or higher. To explicitly select a Python
 version in your requirements, use e.g. ``--requirements=python3==3.10.11,hostpython3==3.10.11``.
 
-The last python-for-android version supporting Python2 was `v2019.10.06 <https://github.com/kivy/python-for-android/archive/v2019.10.06.zip>`__
+The last python-for-android version supporting Python2 was `v2019.10.06 <https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/archive/v2019.10.06.zip>`__
 
 Python-for-android no longer supports building for Python 3 using the CrystaX
-NDK. The last python-for-android version supporting CrystaX was `0.7.0 <https://github.com/kivy/python-for-android/archive/0.7.0.zip>`__
+NDK. The last python-for-android version supporting CrystaX was `0.7.0 <https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/archive/0.7.0.zip>`__
 
 .. _bootstrap_build_options:
 

@@ -310,7 +310,7 @@ for Kivy::
 
   class KivyRecipe(CythonRecipe):
       version = 'stable'
-      url = 'https://github.com/kivy/kivy/archive/{version}.zip'
+      url = 'https://github.com/Hirayanagi-Kyoga/python-for-androidkivy/archive/{version}.zip'
       name = 'kivy'
 
       depends = ['sdl2', 'pyjnius']
@@ -472,7 +472,7 @@ recipe work. For further examples, python-for-android includes many
 recipes for popular modules, which are an excellent resource to find
 out how to add your own. You can find these in the `python-for-android
 Github page
-<https://github.com/kivy/python-for-android/tree/master/pythonforandroid/recipes>`__.
+<https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/tree/master/pythonforandroid/recipes>`__.
 
 
 .. _recipe_class:

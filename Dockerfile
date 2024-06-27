@@ -38,7 +38,7 @@ RUN apt -y update -qq > /dev/null \
     && rm -rf /var/lib/apt/lists/*
 
 # retry helper script, refs:
-# https://github.com/kivy/python-for-android/issues/1306
+# https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/issues/1306
 ENV RETRY="retry -t 3 --"
 RUN curl https://raw.githubusercontent.com/kadwanev/retry/1.0.1/retry \
     --output /usr/local/bin/retry && chmod +x /usr/local/bin/retry

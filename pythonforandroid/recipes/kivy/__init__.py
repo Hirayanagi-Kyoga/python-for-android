@@ -23,14 +23,14 @@ def is_kivy_affected_by_deadlock_issue(recipe=None, arch=None):
 
 class KivyRecipe(CythonRecipe):
     version = '2.3.0'
-    url = 'https://github.com/kivy/kivy/archive/{version}.zip'
+    url = 'https://github.com/Hirayanagi-Kyoga/python-for-androidkivy/archive/{version}.zip'
     name = 'kivy'
 
     depends = ['sdl2', 'pyjnius', 'setuptools']
     python_depends = ['certifi', 'chardet', 'idna', 'requests', 'urllib3']
 
     # sdl-gl-swapwindow-nogil.patch is needed to avoid a deadlock.
-    # See: https://github.com/kivy/kivy/pull/8025
+    # See: https://github.com/Hirayanagi-Kyoga/python-for-androidkivy/pull/8025
     # WARNING: Remove this patch when a new Kivy version is released.
     patches = [("sdl-gl-swapwindow-nogil.patch", is_kivy_affected_by_deadlock_issue)]
 

@@ -357,7 +357,7 @@ unless you blacklist it.
 The available functionality of this module is not separately documented.
 You can read the source `on
 Github
-<https://github.com/kivy/python-for-android/tree/master/pythonforandroid/recipes/android/src/android>`__.
+<https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/tree/master/pythonforandroid/recipes/android/src/android>`__.
 
 Also please note you can replicate most functionality without it using
 `pyjnius`. (see below)

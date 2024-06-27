@@ -158,22 +158,22 @@ def test_transform_dep_for_pip():
     # As soon as upstream fixes it, we should throw it & this test out
     transformed = (
         transform_dep_for_pip(
-            "python-for-android @ https://github.com/kivy/" +
+            "python-for-android @ https://github.com/Hirayanagi-Kyoga/python-for-android" +
             "python-for-android/archive/master.zip"
         ),
         transform_dep_for_pip(
-            "python-for-android @ https://github.com/kivy/" +
+            "python-for-android @ https://github.com/Hirayanagi-Kyoga/python-for-android" +
             "python-for-android/archive/master.zip" +
             "#egg=python-for-android-master"
         ),
         transform_dep_for_pip(
-            "python-for-android @ https://github.com/kivy/" +
+            "python-for-android @ https://github.com/Hirayanagi-Kyoga/python-for-android" +
             "python-for-android/archive/master.zip" +
             "#"  # common hack variant used by others to make pip parse it
         ),
     )
     expected = (
-        "https://github.com/kivy/python-for-android/archive/master.zip" +
+        "https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/archive/master.zip" +
         "#egg=python-for-android"
     )
     assert transformed == (expected, expected, expected)

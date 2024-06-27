@@ -23,11 +23,11 @@ If you are using buildozer, you should:
 - run buildozer again as normal
 
 If you are not using buildozer, see
-https://github.com/kivy/python-for-android/blob/master/README.md for
+https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/blob/master/README.md for
 instructions on using the new python-for-android
 toolchain. Alternatively, you can get the old toolchain from the
 'old_toolchain' branch at
-https://github.com/kivy/python-for-android/tree/old_toolchain .
+https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/tree/old_toolchain .
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 EOF

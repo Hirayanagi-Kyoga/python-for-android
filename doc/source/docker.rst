@@ -25,7 +25,7 @@ already have Docker preinstalled and set up.
 
 1. Clone the repository::
 
-       git clone https://github.com/kivy/python-for-android
+       git clone https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android
 
 2. Build the image with name ``p4a``::
 

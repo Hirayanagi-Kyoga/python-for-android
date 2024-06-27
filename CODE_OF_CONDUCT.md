@@ -4,5 +4,5 @@ our sister projects is a harassment-free and positive experience for everyone.
 It is vital that all interaction is conducted in a manner conveying respect, 
 open-mindedness and gratitude.
 
-Please consult the [latest Kivy Code of Conduct](https://github.com/kivy/kivy/blob/master/CODE_OF_CONDUCT.md).
+Please consult the [latest Kivy Code of Conduct](https://github.com/Hirayanagi-Kyoga/python-for-androidkivy/blob/master/CODE_OF_CONDUCT.md).
 

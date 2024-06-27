@@ -34,7 +34,7 @@ class IFAddrRecipe(CompiledComponentsPythonRecipe):
             ensure_dir(path)
         cli = env['CC'].split()[0]
         # makes sure first CC command is the compiler rather than ccache, refs:
-        # https://github.com/kivy/python-for-android/issues/1398
+        # https://github.com/Hirayanagi-Kyoga/python-for-androidpython-for-android/issues/1398
         if 'ccache' in cli:
             cli = env['CC'].split()[1]
         cc = sh.Command(cli)

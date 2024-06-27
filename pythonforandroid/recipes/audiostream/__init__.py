@@ -9,7 +9,7 @@ class AudiostreamRecipe(CythonRecipe):
     # audiostream has no tagged versions; this is the latest commit to master 2020-12-22
     # it includes a fix for the dyload issue on android that was preventing use
     version = '69f6b100f1ea4e3982a1acf6bbb0804e31a2cd50'
-    url = 'https://github.com/kivy/audiostream/archive/{version}.zip'
+    url = 'https://github.com/Hirayanagi-Kyoga/python-for-androidaudiostream/archive/{version}.zip'
     sha256sum = '4d415c91706fd76865d0d22f1945f87900dc42125ff5a6c8d77898ccdf613c21'
     name = 'audiostream'
     depends = ['python3', 'sdl2', 'pyjnius']
