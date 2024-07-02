@@ -472,7 +472,7 @@ recipe work. For further examples, python-for-android includes many
 recipes for popular modules, which are an excellent resource to find
 out how to add your own. You can find these in the `python-for-android
 Github page
-<https://github.com/Hirayanagi-Kyoga/python-for-android/python-for-android/tree/master/pythonforandroid/recipes>`__.
+<https://github.com/Hirayanagi-Kyoga/python-for-android/tree/develop/pythonforandroid/recipes>`__.
 
 
 .. _recipe_class:

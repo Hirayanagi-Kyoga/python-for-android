@@ -3,8 +3,8 @@ import shutil
 
 
 class Kivy3Recipe(PythonRecipe):
-    version = 'master'
-    url = 'https://github.com/Hirayanagi-Kyoga/python-for-android/kivy3/archive/{version}.zip'
+    version = 'develop'
+    url = 'https://github.com/kivy/kivy3/archive/{version}.zip'
 
     depends = ['kivy']
     site_packages_name = 'kivy3'
