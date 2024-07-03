@@ -142,4 +142,3 @@ class HostPython3Recipe(Recipe):
 
 
 recipe = HostPython3Recipe()
-recipe.version = '3.8.18' 

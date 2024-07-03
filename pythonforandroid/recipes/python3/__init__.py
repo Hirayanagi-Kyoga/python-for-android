@@ -443,4 +443,3 @@ class Python3Recipe(TargetPythonRecipe):
 
 
 recipe = Python3Recipe()
-recipe.version = '3.10.12' 
